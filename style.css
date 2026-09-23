@@ -1,0 +1,9 @@
+.Happy_Birthday {
+  position: absolute;
+  width: 90%;
+  font-size: 2rem;
+  font-family: "seline";
+  height: var(--letter-love);
+  transform: translatex(-50%);
+  background: var(--selina);
+}
